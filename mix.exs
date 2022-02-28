@@ -29,7 +29,7 @@ defmodule ChatApp.MixProject do
       {:poolboy, "~> 1.5.2"},
       {:ecto, "~> 3.7.1"},
       {:ecto_sql, "~> 3.7.1"},
-      {:postgrex, "~> 0.15.13"},
+      {:postgrex, "~> 0.16.2"},
       {:ex_machina, "~> 2.7.0", only: :test},
       {:faker, "~> 0.15", only: [:test, :dev]},
       {:norm, "~> 0.13.0"},
