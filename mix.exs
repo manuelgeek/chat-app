@@ -23,7 +23,7 @@ defmodule ChatApp.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:plug, "~> 1.13.3"},
+      {:plug, "~> 1.14.2"},
       {:cowboy, "~> 2.9.0"},
       {:plug_cowboy, "~> 2.5.2"},
       {:poolboy, "~> 1.5.2"},
