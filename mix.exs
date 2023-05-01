@@ -24,7 +24,7 @@ defmodule ChatApp.MixProject do
   defp deps do
     [
       {:plug, "~> 1.13.3"},
-      {:cowboy, "~> 2.9.0"},
+      {:cowboy, "~> 2.10.0"},
       {:plug_cowboy, "~> 2.5.2"},
       {:poolboy, "~> 1.5.2"},
       {:ecto, "~> 3.7.1"},
